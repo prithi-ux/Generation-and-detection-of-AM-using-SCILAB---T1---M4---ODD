@@ -91,12 +91,21 @@ Compare the original modulating signal with the demodulated signal.
 | 3       | Modulated Signal   |                      |                         |                       |                          |
 | 4       | Demodulated Signal |                      |                         |                       |                          |
 
+<img width="601" height="336" alt="image" src="https://github.com/user-attachments/assets/da6feef0-5626-4584-8bcb-c172af112e81" />
+
+
 **Modulated Signal:**
 
 * Emax =
 * Emin =
 
 # CALCULATION
+<img width="302" height="237" alt="image" src="https://github.com/user-attachments/assets/a1ba366d-e433-4cab-b061-d654cc4ff27d" />
+
+# RESULT
+<img width="306" height="217" alt="image" src="https://github.com/user-attachments/assets/d438dab1-007b-4467-a048-726d39956bdf" />
+
+
 
 1. **ma (Theory) = am/ac =**
 

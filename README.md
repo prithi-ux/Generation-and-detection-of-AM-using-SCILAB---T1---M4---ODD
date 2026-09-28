@@ -93,12 +93,6 @@ Compare the original modulating signal with the demodulated signal.
 
 <img width="601" height="336" alt="image" src="https://github.com/user-attachments/assets/da6feef0-5626-4584-8bcb-c172af112e81" />
 
-
-**Modulated Signal:**
-
-* Emax =
-* Emin =
-
 # CALCULATION
 <img width="302" height="237" alt="image" src="https://github.com/user-attachments/assets/a1ba366d-e433-4cab-b061-d654cc4ff27d" />
 
